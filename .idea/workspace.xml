@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9d56d2a-1473-411b-b6fc-f0286601a6af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test7/DefaultOptimizationinOpenCV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test7/MeasuringPerformancewithOpenCV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test8/ChangingColorspace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test8/ObjectTracking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test9/ImageThresholding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise01_10/Binarization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise01_10/BinarizationofOtsu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise01_10/ChannelSwapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise01_10/Grayscale.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test6/BitwiseOperation.py" beforeDir="false" afterPath="$PROJECT_DIR$/test6/BitwiseOperation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,106 +17,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AccessingAndModifyingPixelValues.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test5/AccessingAndModifyingPixelValues.py">
+      <file leaf-file-name="Grayscale.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise01_10/Grayscale.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+            <state>
+              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarizationofOtsu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise01_10/BinarizationofOtsu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="49" column="6" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="6" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#1378#1388#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MakingBoardersforImages.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test5/MakingBoardersforImages.py">
+      <file leaf-file-name="multiarray.py" pinned="false" current-in-tab="true">
+        <entry file="file://C:/Python27/Lib/site-packages/numpy/core/multiarray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="143">
+              <caret line="296" column="19" selection-start-line="296" selection-start-column="10" selection-end-line="296" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageAddition.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test6/ImageAddition.py">
+      <file leaf-file-name="Binarization.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise01_10/Binarization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="-120">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#208#218#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BitwiseOperation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test6/BitwiseOperation.py">
+      <file leaf-file-name="ChannelSwapping.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise01_10/ChannelSwapping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="-120">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#85#95#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MeasuringPerformancewithOpenCV.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test7/MeasuringPerformancewithOpenCV.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultOptimizationinOpenCV.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test7/DefaultOptimizationinOpenCV.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="ChangingColorspace.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test8/ChangingColorspace.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObjectTracking.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test8/ObjectTracking.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageThresholding.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test9/ImageThresholding.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-762174762/cv2/cv2/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="10616" column="42" selection-start-line="10616" selection-start-column="42" selection-end-line="10616" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -154,10 +102,14 @@
         <option value="$PROJECT_DIR$/test8/ChangingColorspace.py" />
         <option value="$PROJECT_DIR$/test8/ObjectTracking.py" />
         <option value="$PROJECT_DIR$/test9/ImageThresholding.py" />
+        <option value="$PROJECT_DIR$/exercise01_10/ChannelSwapping.py" />
+        <option value="$PROJECT_DIR$/exercise01_10/Grayscale.py" />
+        <option value="$PROJECT_DIR$/exercise01_10/Binarization.py" />
+        <option value="$PROJECT_DIR$/exercise01_10/BinarizationofOtsu.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -180,7 +132,7 @@
             <path>
               <item name="OpencvPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpencvPython" type="462c0819:PsiDirectoryNode" />
-              <item name="test9" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise01_10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,7 +156,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ImageThresholding">
+  <component name="RunManager" selected="Python.BinarizationofOtsu">
+    <configuration name="Binarization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpencvPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise01_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise01_10/Binarization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="BinarizationofOtsu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpencvPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise01_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise01_10/BinarizationofOtsu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="BitwiseOperation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpencvPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,7 +211,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ChangingColorspace" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ChannelSwapping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpencvPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,17 +219,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise01_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test8/ChangingColorspace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise01_10/ChannelSwapping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ImageAddition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Grayscale" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpencvPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,66 +237,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise01_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test6/ImageAddition.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="ImageThresholding" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="OpencvPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test9/ImageThresholding.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="MeasuringPerformancewithOpenCV" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="OpencvPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test7/MeasuringPerformancewithOpenCV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise01_10/Grayscale.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.ImageAddition" />
+      <item itemvalue="Python.ChannelSwapping" />
+      <item itemvalue="Python.Grayscale" />
+      <item itemvalue="Python.Binarization" />
       <item itemvalue="Python.BitwiseOperation" />
-      <item itemvalue="Python.MeasuringPerformancewithOpenCV" />
-      <item itemvalue="Python.ChangingColorspace" />
-      <item itemvalue="Python.ImageThresholding" />
+      <item itemvalue="Python.BinarizationofOtsu" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ImageThresholding" />
-        <item itemvalue="Python.ChangingColorspace" />
-        <item itemvalue="Python.MeasuringPerformancewithOpenCV" />
+        <item itemvalue="Python.BinarizationofOtsu" />
         <item itemvalue="Python.BitwiseOperation" />
-        <item itemvalue="Python.ImageAddition" />
+        <item itemvalue="Python.Binarization" />
+        <item itemvalue="Python.Grayscale" />
+        <item itemvalue="Python.ChannelSwapping" />
       </list>
     </recent_temporary>
   </component>
@@ -326,10 +278,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12526096" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0625" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -337,7 +288,7 @@
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.22103004" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37194473" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -393,28 +344,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2/UsingMatplotlib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding>
-            <element signature="e#248#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test5/opencvlogo.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test4/DrawOpenCVLogo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="27" selection-start-line="27" selection-end-line="29" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test4/DrawFunction.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -426,40 +357,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1/ReadImage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test5/AccessingAndModifyingPixelValues.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-762174762/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="10616" column="42" selection-start-line="10616" selection-start-column="42" selection-end-line="10616" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test6/BitwiseOperation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -480,6 +381,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test7/DefaultOptimizationinOpenCV.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test7/MeasuringPerformancewithOpenCV.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -490,8 +394,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test7/DefaultOptimizationinOpenCV.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/test2/UsingMatplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="e#248#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/opencv-logo-white.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/DrawOpenCVLogo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test8/ChangingColorspace.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -500,9 +424,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test9/ImageThresholding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/ReadImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5/AccessingAndModifyingPixelValues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test8/ObjectTracking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="720">
           <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -510,13 +464,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test9/ImageThresholding.py">
+    <entry file="file://$PROJECT_DIR$/test6/BitwiseOperation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="-12">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01_10/ChannelSwapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#85#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01_10/Binarization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#208#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01_10/Grayscale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01_10/BinarizationofOtsu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="6" />
+          <folding>
+            <element signature="e#1378#1388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="296" column="19" selection-start-line="296" selection-start-column="10" selection-end-line="296" selection-end-column="19" />
         </state>
       </provider>
     </entry>
